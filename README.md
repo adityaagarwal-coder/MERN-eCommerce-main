@@ -121,7 +121,6 @@ npm run data:destroy
     - Email: alice@email.com
     - Password: alice123
 
-Feel free to explore and customize this eCommerce platform for your specific needs. Happy coding🤩!
 
 
 
